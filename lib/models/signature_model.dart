@@ -1,4 +1,4 @@
-import 'package:jeitaly_signaturegenerator_flutter/references.dart';
+import 'package:jeve_signaturegenerator_flutter/references.dart';
 
 class SignatureModel {
   final String name, surname;

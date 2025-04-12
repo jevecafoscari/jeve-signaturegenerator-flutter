@@ -1,6 +1,6 @@
-# jeitaly_signaturegenerator_flutter
+# jeve_signaturegenerator_flutter
 
-Generatore di firma mail per JE Italy.
+Generatore di firma mail per JEVE.
 
 ## Getting Started
 

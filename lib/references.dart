@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:jeitaly_signaturegenerator_flutter/models/signature_model.dart';
+import 'package:jeve_signaturegenerator_flutter/models/signature_model.dart';
 
 class References {
-  static const String appName = "Generatore di firma email JE Italy";
+  static const String appName = "Generatore di firma email JEVE";
 
   static const String emailRegex = r"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$";
-  static const String emailDomain = "jeitaly.org";
+  static const String emailDomain = "jeve.it";
   static const String phonePrefix = "+39";
 
   static const double maxEditorWidth = 400.0;

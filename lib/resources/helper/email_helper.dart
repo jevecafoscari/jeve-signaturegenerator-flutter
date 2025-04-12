@@ -1,5 +1,5 @@
-import 'package:jeitaly_signaturegenerator_flutter/models/signature_model.dart';
-import 'package:jeitaly_signaturegenerator_flutter/references.dart';
+import 'package:jeve_signaturegenerator_flutter/models/signature_model.dart';
+import 'package:jeve_signaturegenerator_flutter/references.dart';
 
 class EmailHelper {
   static bool isValidEmail(String email) {

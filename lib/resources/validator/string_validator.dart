@@ -1,6 +1,6 @@
-import 'package:jeitaly_signaturegenerator_flutter/references.dart';
-import 'package:jeitaly_signaturegenerator_flutter/resources/helper/email_helper.dart';
-import 'package:jeitaly_signaturegenerator_flutter/resources/helper/phone_number_helper.dart';
+import 'package:jeve_signaturegenerator_flutter/references.dart';
+import 'package:jeve_signaturegenerator_flutter/resources/helper/email_helper.dart';
+import 'package:jeve_signaturegenerator_flutter/resources/helper/phone_number_helper.dart';
 
 class StringValidator {
   static String? requiredValidator(String? value) {

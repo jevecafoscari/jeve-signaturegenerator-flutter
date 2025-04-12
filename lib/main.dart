@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:jeitaly_signaturegenerator_flutter/interface/screen/home_screen.dart';
-import 'package:jeitaly_signaturegenerator_flutter/references.dart';
+import 'package:jeve_signaturegenerator_flutter/interface/screen/home_screen.dart';
+import 'package:jeve_signaturegenerator_flutter/references.dart';
 
 void main() {
   runApp(const MyApp());

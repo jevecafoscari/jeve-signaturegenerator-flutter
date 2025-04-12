@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:jeitaly_signaturegenerator_flutter/interface/widget/signature_editor.dart';
-import 'package:jeitaly_signaturegenerator_flutter/interface/widget/signature_viewer.dart';
-import 'package:jeitaly_signaturegenerator_flutter/references.dart';
+import 'package:jeve_signaturegenerator_flutter/interface/widget/signature_editor.dart';
+import 'package:jeve_signaturegenerator_flutter/interface/widget/signature_viewer.dart';
+import 'package:jeve_signaturegenerator_flutter/references.dart';
 import 'dart:html' as html;
 
-import 'package:jeitaly_signaturegenerator_flutter/resources/provider/signature_provider.dart';
+import 'package:jeve_signaturegenerator_flutter/resources/provider/signature_provider.dart';
 
 class HomeScreen extends StatefulWidget {
   static const String route = "/homeScreen";

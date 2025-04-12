@@ -2,10 +2,10 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
-import 'package:jeitaly_signaturegenerator_flutter/models/signature_model.dart';
-import 'package:jeitaly_signaturegenerator_flutter/references.dart';
-import 'package:jeitaly_signaturegenerator_flutter/resources/helper/html_helper.dart';
-import 'package:jeitaly_signaturegenerator_flutter/resources/provider/signature_provider.dart';
+import 'package:jeve_signaturegenerator_flutter/models/signature_model.dart';
+import 'package:jeve_signaturegenerator_flutter/references.dart';
+import 'package:jeve_signaturegenerator_flutter/resources/helper/html_helper.dart';
+import 'package:jeve_signaturegenerator_flutter/resources/provider/signature_provider.dart';
 
 class SignatureViewer extends StatefulWidget {
   final SignatureModel signature;

@@ -1,11 +1,11 @@
 {
-    "name": "jeitaly_signaturegenerator_flutter",
-    "short_name": "jeitaly_signaturegenerator_flutter",
+    "name": "jeve_signaturegenerator_flutter",
+    "short_name": "jeve_signaturegenerator_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Generatore di firma mail per JE Italy.",
+    "description": "Generatore di firma mail per JEVE.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:jeitaly_signaturegenerator_flutter/models/signature_model.dart';
-import 'package:jeitaly_signaturegenerator_flutter/references.dart';
-import 'package:jeitaly_signaturegenerator_flutter/resources/validator/string_validator.dart';
+import 'package:jeve_signaturegenerator_flutter/models/signature_model.dart';
+import 'package:jeve_signaturegenerator_flutter/references.dart';
+import 'package:jeve_signaturegenerator_flutter/resources/validator/string_validator.dart';
 
 class SignatureEditor extends StatefulWidget {
   const SignatureEditor({super.key});
