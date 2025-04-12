@@ -15,7 +15,7 @@ class References {
   static const double signatureWidthInPx = 450.0;
   static const double signatureHeightInPx = 450.0;
 
-  static Color primaryColor = Color(0xFFA50034);
+  static Color primaryColor = Color(0xFFAE1729);
 
 
   static SignatureModel defaultSignature = SignatureModel(
